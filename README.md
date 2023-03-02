@@ -1,16 +1,35 @@
-### Hi there 👋
+# Luisa Forero
+## _Interactive Media Designer & Front-End Web Developer_
 
-<!--
-**fore0045/fore0045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
 
-Here are some ideas to get you started:
+* :email: forero0045@algonquinlive.com
+* :telephone: +1 8193196096
+* :house: Ottawa, Canada
+* :cherries: linkedin.com/luisaforero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft Skills 
+
+* _Creativity_
+* _Problem Solving_
+* **_Adaptability_**
+* _Communication_
+* _Time Management_
+* _Team Player_
+
+## Commands that I learned 
+
+
+| Command | Description |
+| ------ | ------ |
+| touch | creates file |
+| ls | list directory contents |
+| cd | changes current directory |
+| whoami | tells you which user is on |
+| mkdir | make directory/folder |
+| cat | prints file content based on its route/location |
+
+## Helpful Alias 
+
+* alias cl=”clear” - clears terminal 
+* alias rm=”trash”  - avoids deleting files permanently
